@@ -1,5 +1,4 @@
 # Martin_Resume_Website
-# Martin_Resume_Website
 
 This repository hosts the online resume for **Robert M. Martin Jr.** using GitHub Pages.
 
