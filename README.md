@@ -3,7 +3,7 @@
 This repository hosts the online resume for **Robert M. Martin Jr.** using GitHub Pages.
 
 ## 📌 Live Website
-Access the resume here: **[Martin-Resume-Website.github.io](https://Martin-Resume-Website.github.io/)**
+Access the resume here: **[Martin-Resume-Website.github.io](https://rmmartin1207.github.io/Martin-Resume-Website.github.io/)**
 
 ## 📄 About
 This is a simple resume webpage created using **HTML & CSS**, designed to showcase the professional experience, skills, and education of Robert M. Martin Jr.
