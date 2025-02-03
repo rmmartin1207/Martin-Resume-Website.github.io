@@ -5,7 +5,7 @@ This repository hosts the online resume for **Robert M. Martin Jr.** using GitHu
 ## 📌 Live Website
 Access the resume here: **[Martin-Resume-Website.github.io](https://rmmartin1207.github.io/Martin-Resume-Website.github.io/)**
 
-## 📌 Live Website
+## 📌 PDF Resume
 Access the resume here: **[Martin-Resume-Website.github.io](https://rmmartin1207.github.io/Martin-Resume-Website.github.io/)**
 
 ## 📄 About
